@@ -1,0 +1,4 @@
+#Mon Mar 07 20:51:41 WIB 2022
+base.0=/Users/macbookpro/Documents/Project/inbox_notification/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
